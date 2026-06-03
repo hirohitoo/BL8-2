@@ -1,7 +1,7 @@
 {
 "queue1":{"xas":{
   "grating":"1100",
-  "c1s": [{"sample1":[[0,0],[0,1],[0,2]]},{"sample2":[[0,0]]},{"sample3":[[0,0]]}],
+  "c1s": [{"sample1":[45,[0,0],[0,1],[0,2]]},{"sample2":[[0,0]]},{"sample3":[[0,0]]}],
   "o1s": ["sample1","sample2","sample3"],
   "cu2p": ["sample1","sample2","sample3"],
   "ni2p": ["sample1","sample2","sample3"],
