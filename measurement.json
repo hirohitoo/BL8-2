@@ -1,15 +1,13 @@
 {
-"xas":{"grating":"1100"}
-{"c1s": ["sample1","sample2","sample3"],
+"xas":{"grating":"1100","c1s": ["sample1","sample2","sample3"],
 "o1s": ["sample1","sample2","sample3"],
-"cu2p": ["sample1","sample2","sample3"],,
+"cu2p": ["sample1","sample2","sample3"],
 "ni2p": ["sample1","sample2","sample3"],
 },
-"II":"4",
-"xps":{"grating":"1100","excitaiton":"800"}
-{"c1s": ["sample1","sample2","sample3"],
+"xps":{"grating":"1100","excitaiton":"800",
+"c1s": ["sample1","sample2","sample3"],
 "o1s": ["sample1","sample2","sample3"],
-"cu2p": ["sample1","sample2","sample3"],,
+"cu2p": ["sample1","sample2","sample3"],
 "ni2p": ["sample1","sample2","sample3"],
 }
 }
