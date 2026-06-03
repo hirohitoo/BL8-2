@@ -8,7 +8,7 @@
   },
 "xps":{
   "grating":"1100","excitaiton":"800","flood":{"V":"20","I":"2"},
-  "c1s": ["sample1","sample2","sample3"],
+  "c1s": ["sample1":[20,[0,0]],"sample2":[20,[0,0]],"sample3":[20,[0,0]],
   "o1s": ["sample1","sample2","sample3"],
   "cu2p": ["sample1","sample2","sample3"],
   "ni2p": ["sample1","sample2","sample3"],
