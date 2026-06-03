@@ -1,15 +1,16 @@
 {
 "xas":
 {"c1s": ["sample1","sample2","sample3"],
-"sample2": [1,2,3],
-"sample3": [1,2,3],
-"sample4": [1,2,3]
+"o1s": ["sample1","sample2","sample3"],
+"cu2p": ["sample1","sample2","sample3"],,
+"ni2p": ["sample1","sample2","sample3"],
 },
 "II":"4",
-"xps":
-{"sample1": [1,2,3],
-"sample2": [1,2,3],
-"sample3": [1,2,3],
-"sample4": [1,2,3]
+"xps":{"800":
+{"c1s": ["sample1","sample2","sample3"],
+"o1s": ["sample1","sample2","sample3"],
+"cu2p": ["sample1","sample2","sample3"],,
+"ni2p": ["sample1","sample2","sample3"],
+}
 }
 }
