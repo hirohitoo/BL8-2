@@ -1,5 +1,6 @@
 {
-"xas":{"grating":"1100","c1s": ["sample1","sample2","sample3"],
+"xas":{"grating":"1100",
+"c1s": ["sample1","sample2","sample3"],
 "o1s": ["sample1","sample2","sample3"],
 "cu2p": ["sample1","sample2","sample3"],
 "ni2p": ["sample1","sample2","sample3"],
