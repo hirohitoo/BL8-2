@@ -7,7 +7,7 @@
   "ni2p": ["sample1","sample2","sample3"],
   },
 "xps":{
-  "grating":"1100","excitaiton":"800",
+  "grating":"1100","excitaiton":"800","flood":{"V":"20","I":"2"},
   "c1s": ["sample1","sample2","sample3"],
   "o1s": ["sample1","sample2","sample3"],
   "cu2p": ["sample1","sample2","sample3"],
