@@ -1,4 +1,20 @@
 {
+"posiiton":{
+"I":"1",
+"Samples":
+{"sample1": [1,2,3],
+"sample2": [1,2,3],
+"sample3": [1,2,3],
+"sample4": [1,2,3]
+},
+"II":"4",
+"Samples":
+{"sample1": [1,2,3],
+"sample2": [1,2,3],
+"sample3": [1,2,3],
+"sample4": [1,2,3]
+}
+}  
 "queue1":{"xas":{
   "grating":"1100",
   "c1s": [{"sample1":[45,[0,0],[0,1],[0,2]]},{"sample2":[45,[0,0]]},{"sample3":[45,[0,0]]}],
