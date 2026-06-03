@@ -1,0 +1,15 @@
+{
+"xas":
+{"c1s": ["sample1","sample2","sample3"],
+"sample2": [1,2,3],
+"sample3": [1,2,3],
+"sample4": [1,2,3]
+},
+"II":"4",
+"xps":
+{"sample1": [1,2,3],
+"sample2": [1,2,3],
+"sample3": [1,2,3],
+"sample4": [1,2,3]
+}
+}
