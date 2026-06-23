@@ -1,5 +1,4 @@
 htxs_refresh
 qdo htxs_load.mac
-HTXS_CHECKBEAM=0
-htxs_set_pos_samplecenter(205,180-22,0,0, 0.0);htxs_move;xas_ni2p_blprep;htxs_mopt;xas_ni2p;xas_ni2p;xas_ni2p32_repeat(1);
-htxs_set_pos_samplecenter(209,180-22,0,0, 0.0);htxs_move;xas_ni2p_blprep;htxs_mopt;xas_ni2p;xas_ni2p;xas_ni2p32_repeat(1);
+wa
+ct
