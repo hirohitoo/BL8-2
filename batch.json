@@ -1,8 +1,8 @@
 {
     "019e8083-82f4-711c-be58-a645ea18fb96": "htxs_refresh",
     "019e8083-82f4-711c-be58-a646bc6b403f": "qdo htxs_load.mac",
-    "019e8083-82f4-711c-be58-a646bc6b403g": "HTXS_CHECKBEAM=0",
-    "019e8083-82f4-711c-be58-a6479b322336": "htxs_set_pos_samplecenter(205,180-20,0,0, 0.0);htxs_move;xas_ni2p_blprep;htxs_mopt;xas_ni2p;xas_ni2p;xas_ni2p32_repeat(1);",
-    "019e8083-82f4-711c-be58-a648ae0f843b": "htxs_set_pos_samplecenter(209,180-20,0,0, 0.0);htxs_move;xas_ni2p_blprep;htxs_mopt;xas_ni2p;xas_ni2p;xas_ni2p32_repeat(1);",
+    "019e8083-82f4-711c-be58-a646bc6b403g": "ct",
+    "019e8083-82f4-711c-be58-a6479b322336": "wa",
+    "019e8083-82f4-711c-be58-a648ae0f843b": "ct",
     "019e8083-82f4-711c-be58-a649dbe79f52": ""
 }
